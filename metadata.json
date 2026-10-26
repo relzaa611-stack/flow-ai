@@ -1,0 +1,6 @@
+{
+  "name": "FlowCast Studio",
+  "description": "Browser-based automation studio for Google Flow (Veo 3), Gemini Omni, and custom Pro web apps to produce multi-scene explainer videos with synchronized voiceover synthesis.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
